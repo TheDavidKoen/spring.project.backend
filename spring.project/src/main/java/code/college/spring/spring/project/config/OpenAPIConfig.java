@@ -1,4 +1,4 @@
-package code.college.spring.spring.project;
+package code.college.spring.spring.project.config;
 
 import java.util.List;
 

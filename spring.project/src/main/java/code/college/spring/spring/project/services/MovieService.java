@@ -1,5 +1,7 @@
-package code.college.spring.spring.project.movies;
+package code.college.spring.spring.project.services;
 
+import code.college.spring.spring.project.models.Movie;
+import code.college.spring.spring.project.repositories.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

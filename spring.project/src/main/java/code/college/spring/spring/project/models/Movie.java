@@ -1,4 +1,4 @@
-package code.college.spring.spring.project.movies;
+package code.college.spring.spring.project.models;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

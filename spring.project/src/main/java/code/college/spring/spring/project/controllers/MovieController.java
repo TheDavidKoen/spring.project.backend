@@ -1,5 +1,7 @@
-package code.college.spring.spring.project.movies;
+package code.college.spring.spring.project.controllers;
 
+import code.college.spring.spring.project.models.Movie;
+import code.college.spring.spring.project.services.MovieService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.beans.factory.annotation.Autowired;
